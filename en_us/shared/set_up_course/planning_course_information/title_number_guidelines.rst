@@ -1,30 +1,6 @@
-.. _Course Title and Number:
-
-#######################
-Course Title and Number
-#######################
-
-The course title (sometimes also called the course name) and number are
-important identifiers for your course. It is a good idea to use titles and
-numbers that are easy to understand and remember.
-
-.. only:: Partners
-
- A course title and number are required to create an About page.
-
- * For courses on edx.org, you enter this information in Publisher.
-   For more information, see :ref:`Pub Creating a Course`.
- * For courses on Edge, you enter this information in Studio. For more
-   information, see :ref:`Creating a New Course`.
-
-.. only:: Open_edX
-
- For information about how to add your course title and number, see
- :ref:`Creating a New Course`.
-
-.. contents::
-  :local:
-  :depth: 1
+.. For the introduction to this topic, see the individual
+.. title_number_guidelines.rst files in the course_authors and
+.. open_edx_course_authors guides.
 
 .. _Course Title Guidelines:
 
@@ -113,35 +89,3 @@ Example Course Numbers
 * CS002x
 * BIO1.1x and BIO1.2x
 * 6.002.1x and 6.002.2x
-
-.. only:: Partners
-
-    .. _Enrollment Track Guidelines:
-
-    ***************************
-    Enrollment Track Guidelines
-    ***************************
-
-    The enrollment track specifies the certificate type, if any, that is
-    available for the course, as well as whether the course has a fee. All
-    enrollment tracks other than the audit enrollment track have a fee.
-
-    The edX platform offers the following enrollment tracks.
-
-    * audit
-    * credit
-    * professional
-    * verified
-
-    For more information about each enrollment track, see :ref:`enrollment
-    track<enrollment_track_g>`.
-
-    .. note::
-      For courses that offer a verified enrollment track, by default, the
-      deadline for learners to upgrade to the verified track is 10 days before
-      the course end date. The deadline for learners in the verified track to
-      submit ID verification is the course end date. To request different
-      deadlines, contact your edX project coordinator (PC).
-
-    For information about how to specify an enrollment track, see :ref:`Pub
-    Create a Course`.

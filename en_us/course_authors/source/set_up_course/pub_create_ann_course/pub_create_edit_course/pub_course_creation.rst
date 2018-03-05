@@ -22,7 +22,7 @@ In Publisher, a course contains the following information.
      - Learner testimonials
    * - Enrollment track (also called certificate type)
      - FAQ
-   * - Price of a certificate
+   * - Price of a certificate (if the course offers a certificate)
      - Syllabus
    * - Short and long description
      -

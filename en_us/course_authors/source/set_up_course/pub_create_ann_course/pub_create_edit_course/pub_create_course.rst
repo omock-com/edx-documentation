@@ -21,7 +21,7 @@ To create a course in Publisher, follow these steps.
    * The name of the course administrator for your organization.
    * The course title.
    * The course number.
-   * The enrollment tracks (also called certificate types) that the course
+   * The enrollment track (also called certificate type) that the course
      offers. For more information, see :ref:`enrollment
      track<enrollment_track_g>`.
    * The price for a certificate in the course. If the course does not offer

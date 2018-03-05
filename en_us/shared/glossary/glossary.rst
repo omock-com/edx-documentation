@@ -463,9 +463,9 @@ E
   .. only:: Partners
 
     * **credit**: In this enrollment track, learners who pass the course and
-    comply with additional requirements, including identity verification, can
-    receive academic credit for the course. For more information, see
-    :ref:`partners:Academic Course Credit`.
+      comply with additional requirements, including identity verification, can
+      receive academic credit for the course. For more information, see
+      :ref:`partnercoursestaff:Academic Course Credit`.
 
   .. only:: Open_edX
 
