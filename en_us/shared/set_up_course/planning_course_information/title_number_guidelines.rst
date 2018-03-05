@@ -46,12 +46,12 @@ When you determine the title of your course, consider the following guidelines.
 
 .. only:: Partners
 
- For more information about adding a course name, see :ref:`Pub Creating a
- Course`.
+ For more information about how to add your course name, see :ref:`Pub Creating
+ a Course`.
 
 .. only:: Open_edX
 
- For information about how to add your course title, see
+ For information about how to add your course name, see
  :ref:`Creating a New Course`.
 
 .. note::
@@ -96,6 +96,16 @@ Course numbers have the following guidelines.
   the way that your course number appears in Studio and the LMS, see
   :ref:`Change the Course Number`.
 
+.. only:: Partners
+
+ For more information about how to add your course number, see :ref:`Pub
+ Creating a Course`.
+
+.. only:: Open_edX
+
+ For information about how to add your course number, see
+ :ref:`Creating a New Course`.
+
 ======================
 Example Course Numbers
 ======================
@@ -104,3 +114,34 @@ Example Course Numbers
 * BIO1.1x and BIO1.2x
 * 6.002.1x and 6.002.2x
 
+.. only:: Partners
+
+    .. _Enrollment Track Guidelines:
+
+    ***************************
+    Enrollment Track Guidelines
+    ***************************
+
+    The enrollment track specifies the certificate type, if any, that is
+    available for the course, as well as whether the course has a fee. All
+    enrollment tracks other than the audit enrollment track have a fee.
+
+    The edX platform offers the following enrollment tracks.
+
+    * audit
+    * credit
+    * professional
+    * verified
+
+    For more information about each enrollment track, see :ref:`enrollment
+    track<enrollment_track_g>`.
+
+    .. note::
+      For courses that offer a verified enrollment track, by default, the
+      deadline for learners to upgrade to the verified track is 10 days before
+      the course end date. The deadline for learners in the verified track to
+      submit ID verification is the course end date. To request different
+      deadlines, contact your edX project coordinator (PC).
+
+    For information about how to specify an enrollment track, see :ref:`Pub
+    Create a Course`.
